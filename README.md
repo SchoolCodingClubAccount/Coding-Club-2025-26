@@ -13,9 +13,9 @@ You can do 1, or even more if you like.
 
 For example:\
 Term 1 - Basic python has 3 projects:\
-  Higher or lower\
-  Tic tac toe\
-  Wordle
+  - Higher or lower\
+  - Tic tac toe\
+  - Wordle
 
 I can show you game logic, and I can help you but the coding is up to you!
 
