@@ -11,10 +11,10 @@ HT6: YOUR OWN PROJECT - You can work on a project of your own choice for the who
 There are 3 projects at the end of every term: easy, medium, hard.\
 You can do 1, or even more if you like. 
 
-For example:\
-Term 1 - Basic python has 3 projects:\
-  - Higher or lower\
-  - Tic tac toe\
+For example:
+Term 1 - Basic python has 3 projects:
+  - Higher or lower
+  - Tic tac toe
   - Wordle
 
 I can show you game logic, and I can help you but the coding is up to you!
