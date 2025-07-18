@@ -9,14 +9,14 @@ HT5: C++ OOP - C++ was one of the first languages to support the OOP concept, an
 HT6: YOUR OWN PROJECT - You can work on a project of your own choice for the whole half-term!\
 
 There are 3 projects at the end of every term: easy, medium, hard.\
-You can do 1, or even more if you like. \
+You can do 1, or even more if you like. 
 
 For example:\
 Term 1 - Basic python has 3 projects:\
   Higher or lower\
   Tic tac toe\
-  Wordle\
+  Wordle
 
 I can show you game logic, and I can help you but the coding is up to you!\
 
-Merits and Good notes on offer for good project work - as long as you can explain the code and Miss Adams and I are satisfied.\
+Merits and Good notes on offer for good project work - as long as you can explain the code and Miss Adams and I are satisfied.
