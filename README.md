@@ -1,7 +1,7 @@
 # Coding-Club-2025-26
 Where you can find all material, and information in case you missed, or want to refer.
 
-HT1: Basic Python - get everybody to same level\
+HT1: Basic Python - get everybody to same level and improves everyone's python skills with challenges and exercises.\
 HT2: OOP Python - great concept to learn and use for better coding\
 HT3: Game development with Pygame - learn to use pygame and make cool games!\
 HT4: C++ Basics - learn some C++, a very reliable language and amazing to know\
