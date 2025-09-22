@@ -19,4 +19,4 @@ Term 1 - Basic python has 3 projects:
 
 I can show you game logic, and I can help you but the coding is up to you!
 
-Merits and Good notes on offer for good project work - as long as you can explain the code and Miss Adams and I are satisfied.
+Let's enjoy a happy year of coding!
