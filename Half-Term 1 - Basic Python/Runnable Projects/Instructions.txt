@@ -1,0 +1,12 @@
+Hi!
+
+You can find all the projects as executables here.
+
+You will not be able to preview them, download the files.
+
+This should give you a sense of what you could be aiming for, and maybe even extensions later.
+
+You will not be able to see the code behind the scenes, as these are not .py files.
+
+Good luck with your projects,
+Viv
